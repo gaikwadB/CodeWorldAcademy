@@ -326,10 +326,10 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 12px;
   cursor: pointer;
 }
-#fh5co-hero .flexslider .flex-control-nav li a.flex-active {
+/*#fh5co-hero .flexslider .flex-control-nav li a.flex-active {
   cursor: pointer;
   background: rgba(255, 255, 255, 0.7);
-}
+}*/
 #fh5co-hero .flexslider .flex-direction-nav {
   display: none;
 }
